@@ -1,0 +1,12 @@
+{
+    "build": {
+        "dockerfile": "./.codesandbox/Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python"
+            ]
+        }
+    }
+}
